@@ -1,8 +1,15 @@
 # Hi there, I am Neuerliu 👋
 
+[![github](https://img.shields.io/badge/tools-github-orange)](https://github.com/neuerliu)
+[![website](https://img.shields.io/badge/website-personal-red)](https://neuerliu.github.io)
+[![mail](https://img.shields.io/badge/mail-foxmail-blue)](mailto:brackneuer@foxmail.com)
+
+
 ## About my github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuerliu&layout=compact)](https://github.com/neuerliu/github-readme-stats)
-![Neuerliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuerliu&show_icons=true&theme=tokyonight)
+<a href='https://github.com/neuerliu'>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuerliu&layout=compact">
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=neuerliu&show_icons=true&theme=tokyonight">
+</a>
 
 ## About myself
 - 🔭 I’m currently working on data science
