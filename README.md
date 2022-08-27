@@ -1,14 +1,14 @@
 # Hi there, I am Neuerliu 👋
 
 ## About my github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuerliu&layout=compact)](https://github.com/neuerliu/github-readme-stats)
-![Neuerliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuerliu&show_icons=true&theme=tokyonight)
+<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuerliu&layout=compact)](https://github.com/neuerliu/github-readme-stats)</div>
+<div>![Neuerliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuerliu&show_icons=true&theme=tokyonight)</div>
 
 ## About myself
 - 🔭 I’m currently working on data science
 - 🌱 I’m currently learning django/web/cv
 - 📫 How to reach me: brackneuer@foxmail.com
-- 💬 My personal website: neuerliu.github.io
+- 💬 My personal website: https://neuerliu.github.io
 
 <!--
 **Neuerliu/neuerliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
