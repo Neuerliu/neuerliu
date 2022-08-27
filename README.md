@@ -1,8 +1,8 @@
 # Hi there, I am Neuerliu 👋
 
 ## About my github
-<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuerliu&layout=compact)](https://github.com/neuerliu/github-readme-stats)</div>
-<div>![Neuerliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuerliu&show_icons=true&theme=tokyonight)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuerliu&layout=compact)](https://github.com/neuerliu/github-readme-stats)
+![Neuerliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuerliu&show_icons=true&theme=tokyonight)
 
 ## About myself
 - 🔭 I’m currently working on data science
